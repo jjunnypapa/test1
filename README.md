@@ -1,4 +1,5 @@
 # test1
 python test practice
 
-hello my name is hyunsu kim
+hi my name is hyunsu kim
+i am 37 years old
